@@ -4,7 +4,7 @@ An AI-powered app that analyzes South African car brands, automotive growth tren
 
 An AI-powered automotive intelligence platform focused on South African vehicle market trends, growth analysis, consumer insights, and data-driven forecasting.
 
----
+https://partyrock.aws/u/Kunjulwa/h4HAR83xNP/SA-Vehicle-Sales-Intelligence-Platform
 
 ##  Features
 
@@ -95,7 +95,7 @@ Planned features include:
 
 ## Screenshots
 
-*Add screenshots of your app here.*
+
 
 ---
 
